@@ -177,8 +177,8 @@
       "routeName": "appels",
       "inHomePage": true
     },
-   
-    
+
+
     {
       "name": "Contacts",
       "fr_FR__name": "Contacts",
@@ -216,7 +216,7 @@
       "routeName": "parametre",
       "inHomePage": false
     },
-    
+
     {
       "name": "Bank",
       "fr_FR__name": "Wallet",
@@ -270,7 +270,7 @@
       "es_ES__name": "Notas ",
       "routeName": "notes",
       "icons": "/html/static/img/icons_app/notes.png"
-      
+
     },
     {
       "name": "9GAG",
@@ -329,6 +329,7 @@
       "APP_MESSAGE_ZOOM_IMG": "Zoom",
       "APP_MESSAGE_DELETE": "Effacer",
       "APP_MESSAGE_MESS_NUMBER": "Numero ",
+      "APP_MESSAGE_SAVE_CONTACT": "Enregistrer le contact",
       "APP_MESSAGE_MESS_SMS": "SMS",
       "APP_MESSAGE_MESS_CALL": "Appeler",
       "APP_MESSAGE_MESS_COPY": "Copier",
@@ -407,6 +408,7 @@
       "CONFIRM": "Accept",
       "CANCEL": "Abort",
       "APP_CONFIG_TITLE": "Settings",
+      "APP_MESSAGE_SAVE_CONTACT": "Save contact",
       "APP_CONFIG_MY_MUNBER": "My number",
       "APP_CONFIG_WALLPAPER": "Wallpaper",
       "APP_CONFIG_CASE": "Telephone cover",
@@ -516,6 +518,7 @@
       "PHONE_WARNING_MESSAGE": "Achtung!",
       "PHONE_WARNING_MESSAGE_MESS": "Nachrichten",
       "CONFIRM": "Akzeptieren",
+      "APP_MESSAGE_SAVE_CONTACT": "Kontakt speichern",
       "CANCEL": "Abbrechen",
       "APP_CONFIG_TITLE": "Einstellungen",
       "APP_CONFIG_MY_MUNBER": "Meine Nummer",
@@ -636,6 +639,7 @@
       "CANCEL": "przerwać",
       "APP_CONFIG_TITLE": "parametr",
       "APP_CONFIG_MY_MUNBER": "Mój numer",
+      "APP_MESSAGE_SAVE_CONTACT": "Zapisz kontakt",
       "APP_CONFIG_WALLPAPER": "tapeta",
       "APP_CONFIG_MOUSE_SUPPORT": "Controle souris",
       "APP_CONFIG_CASE": "Pokrywa telefoniczna",
@@ -745,6 +749,7 @@
       "PHONE_WARNING_MESSAGE_MESS": "noticias",
       "CONFIRM": "Aceptar",
       "CANCEL": "Cancelar",
+      "APP_MESSAGE_SAVE_CONTACT": "Guardar contacto",
       "APP_CONFIG_TITLE": "Ajustes",
       "APP_CONFIG_MY_MUNBER": "Mi número",
       "APP_CONFIG_WALLPAPER": "Fondo pantalla",
@@ -860,6 +865,7 @@
       "PHONE_WARNING_MESSAGE": "připomínka",
       "PHONE_WARNING_MESSAGE_MESS": "zprávy",
       "CONFIRM": "Přijmout",
+      "APP_MESSAGE_SAVE_CONTACT": "Ruani kontaktin",
       "CANCEL": "Zrušit",
       "APP_CONFIG_TITLE": "nastavení",
       "APP_CONFIG_MY_MUNBER": "Mé číslo",
